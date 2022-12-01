@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @gabrielepanciotti
 
-- 👀 I’m interested in all the application of AI and Machine Learning
-- 🌱 I’m currently learning on a Master of Data Science & AI
+- 👀 I’m interested in all the application of AI and Machine Learning, computational neuroscience, agrotech and quantum computing
+- 🌱 I’m currently learning on a Master of Data Science & AI made by Talent Garden S.p.a. and at the University of Perugia the computer science course
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/gabriele-panciotti)
 
